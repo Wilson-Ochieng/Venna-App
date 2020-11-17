@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Venna App Translator</string>
+    <string name="asset_statements" translatable="false">[{ \"include\": \"https://willybiz.co.ke/.well-known/assetlinks.json\" }]</string>
+</resources>
